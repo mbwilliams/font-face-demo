@@ -1,0 +1,19 @@
+@font-face {
+  font-family: FjallaOne;
+  src: url(fonts/FjallaOne-Regular_0.ttf);
+}
+
+.para {
+  width: 25em;
+}
+.para_1 {
+  font-family: FjallaOne;
+}
+
+.para_2 {
+  font-family: Georgia, serif;
+}
+
+.para_3 {
+  font-family: Arial, "MS Trebuchet", sans-serif;
+}
